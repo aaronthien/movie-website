@@ -2,7 +2,7 @@ const APILINK = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.
 const IMG_PATH = "https://image.tmdb.org/t/p/w1280";
 const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?&api_key=72c492d9e5bd38306337545f6d547cdc&query=";
 
-
+let thisthatthere = "Hello";
 const main = document.getElementById("section");
 const form = document.getElementById("form");
 const search = document.getElementById("query");
